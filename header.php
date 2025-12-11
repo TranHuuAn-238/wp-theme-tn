@@ -8,3 +8,5 @@
 </head>
 <body>
     
+<!-- Hiển thị thanh menu -->
+<?php get_template_part('includes/section', 'menu'); ?>
